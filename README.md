@@ -2,6 +2,7 @@
 Reporting system for assessing the effectiveness of segmentation models
 
 Main features:
+
   Loading various cnn architectures of segmentation models
 
   Model training
