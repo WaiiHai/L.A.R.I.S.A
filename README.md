@@ -9,3 +9,6 @@ Main features:
   Logging Model Scores
 
   Loading videos of various formats and obtaining video segmentation(You can upload one video or a folder with videos)
+
+The project was completed in the 2nd year of university
+
